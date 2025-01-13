@@ -1,0 +1,10 @@
+calculation:
+  calcMode: deg
+  mode: math
+terminal:
+  mode: false
+  modeColor: Random
+  modeTypeDisplay: ()
+  time: true
+  timeColor: Random
+  timeTypedispley: '[]'
